@@ -26,8 +26,6 @@ Loyalty Level = 30.8%
 
 Support contact Rate = 46.7%
 
-Support impact = -1.3%
-
 Repeat Purchase Rate = 57.5%
 
 Product Quality emerged as the strongest driver of customer satisfaction, indicating that customers highly value the reliability and overall standard of the product.
